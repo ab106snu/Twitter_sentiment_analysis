@@ -9,6 +9,6 @@ text - the text of the tweet
 sentiment - the general sentiment of the tweet
 
 # Objective:
-Understand the Dataset & cleanup (if required).
-Build classification models to predict the twitter sentiments.
+Understand the Dataset & cleanup (if required).</br>
+Build classification models to predict the twitter sentiments.</br>
 Compare the evaluation metrics of vaious classification algorithms.
