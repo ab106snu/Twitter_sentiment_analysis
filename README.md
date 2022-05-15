@@ -16,3 +16,10 @@ https://www.kaggle.com/c/tweet-sentiment-extraction/data?select=train.csv</br>
 Understand the Dataset & cleanup (if required).</br>
 Build classification models to predict the twitter sentiments.</br>
 Compare the evaluation metrics of vaious classification algorithms.
+
+# ML Models implemented
+1.Logistic regression</br>
+2.Support vector machines(SVM)</br>
+3.Random Forests</br>
+4.Gradient boosting
+5.Naive-Bayes</br>
