@@ -21,5 +21,5 @@ Compare the evaluation metrics of vaious classification algorithms.
 1.Logistic regression</br>
 2.Support vector machines(SVM)</br>
 3.Random Forests</br>
-4.Gradient boosting
+4.Gradient boosting</br>
 5.Naive-Bayes</br>
