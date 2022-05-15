@@ -12,7 +12,7 @@ Acknowledgement:</br>
 The dataset is download from Kaggle Competetions:</br>
 https://www.kaggle.com/c/tweet-sentiment-extraction/data?select=train.csv</br>
 
-# Objective:
+# Objective
 Understand the Dataset & cleanup (if required).</br>
 Build classification models to predict the twitter sentiments.</br>
 Compare the evaluation metrics of vaious classification algorithms.
